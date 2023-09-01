@@ -12,8 +12,7 @@
 
 текст как код, помещается в тройные кавычки
 
-'''
-mkdir my__project
+
+```mkdir my__project
 cd my__project
-git init
-'''
+git init```
